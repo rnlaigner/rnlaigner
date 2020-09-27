@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm Rodrigo Laigner, a PhD fellow at University of Copenhagen, studying about big data systems, event-driven architecture, and microservices
+
+### (https://rnlaigner.github.io/) - my personal page
+
+If you want to setup a profile README, follow the instructions in the following link:
+https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
