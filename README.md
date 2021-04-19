@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rnlaigner/rnlaigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Rodrigo Laigner, a PhD fellow at University of Copenhagen, studying about big data systems, event-driven architecture, and microservices
+## Hi there 👋, I'm Rodrigo Laigner
 
-### (https://rnlaigner.github.io/) - my personal page
+-  I'm a second-year PhD student at University of Copenhagen, advised by [Yongluan Zhou](ylzhou.github.io/) and [Marcos Antonio Vaz Salles](http://hjemmesider.diku.dk/~vmarcos/)
+- 🔭 I’m currently studying about big data systems, event-driven architecture, and microservices
+- 📫 You can reach out to me through my personal [page](https://rnlaigner.github.io/)
 
-If you want to setup a profile README, follow the instructions in the following link:
-https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+If you want to setup a profile README, follow the instructions in the [link](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
