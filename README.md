@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋, I'm Rodrigo Laigner
 
--  I'm a third-year PhD student at University of Copenhagen, advised by [Yongluan Zhou](ylzhou.github.io/) and has previously been co-advised by [Marcos Antonio Vaz Salles](http://hjemmesider.diku.dk/~vmarcos/)
+-  I'm a fourth-year PhD student at University of Copenhagen, advised by [Yongluan Zhou](ylzhou.github.io/) and has previously been co-advised by [Marcos Antonio Vaz Salles](http://hjemmesider.diku.dk/~vmarcos/)
 - 🔭 I’m currently doing research in the intersection of event-based microservices and data management
 - 👯 I’m looking to collaborate on every aspect of systems research related to event-based systems
 - 📫 You can reach out to me through my personal [page](https://rnlaigner.github.io/)
